@@ -1,0 +1,6 @@
+framework module Pods_LoginButonNetworking {
+  umbrella header "Pods-LoginButonNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
